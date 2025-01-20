@@ -4,10 +4,20 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/java-basic-main/core-java-basics" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core-java-basics" />
+        <option name="gradleHome" value="" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/java-basic-main/core-java-basics" />
+            <option value="$PROJECT_DIR$/core-java-basics" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-pattern" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-pattern" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="core-java-basics" target="21" />
+      <module name="core-java-basics.main" target="21" />
+      <module name="core-java-basics.test" target="21" />
+      <module name="java-pattern" target="21" />
+      <module name="java-pattern.main" target="21" />
+      <module name="java-pattern.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
